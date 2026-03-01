@@ -1,0 +1,4 @@
+telethon
+MetaTrader5
+numpy
+asyncio
